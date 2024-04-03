@@ -1,3 +1,6 @@
+# word docs
+*.docx
+
 # Visual Studio 2015 user specific files
 .vs/
 
